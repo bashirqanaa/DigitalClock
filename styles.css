@@ -11,4 +11,5 @@ body {
     color: #ffd791;
     font-size: 150px;
     letter-spacing: 7px;
+    width: max-content;
 }
